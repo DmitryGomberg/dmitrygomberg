@@ -1,11 +1,12 @@
 ### Hi there 👋
 My name is Dmitry 
+🌱 I’m currently learning javaScript, React, C++ and other
 
 ![](https://komarev.com/ghpvc/?username=dmitrygomberg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrygomberg&layout=compact)](https://github.com/dmitrygomberg/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitrygomberg)](https://github.com/dmitrygomberg/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitrygomberg)](https://github.com/dmitrygomberg/github-readme-stats&theme=radical))
 <!--
 **DmitryGomberg/dmitrygomberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
