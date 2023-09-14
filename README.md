@@ -4,11 +4,10 @@ My name is Dmitry
 
 ![](https://komarev.com/ghpvc/?username=dmitrygomberg)
 
-<div style="color: red">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrygomberg&layout=compact&theme=dark)](https://github.com/dmitrygomberg/github-readme-stats)
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitrygomberg&theme=dark)](https://github.com/dmitrygomberg/github-readme-stats)
-</div>
+
 <!--
 **DmitryGomberg/dmitrygomberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
