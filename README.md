@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Dmitry 
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=dmitrygomberg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrygomberg&layout=compact)](https://github.com/dmitrygomberg/github-readme-stats)
 
