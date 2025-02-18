@@ -1,27 +1,21 @@
-### Hi there 👋
-My name is Dmitry 
+# Hi there, I'm Dmitry Gomberg 👋
 
-🌱 I’m currently learning JavaScript (React), C++
+I'm a passionate web developer with a love for creating dynamic and responsive web applications. Welcome to my GitHub profile! Here you'll find a collection of my projects, showcasing my skills and experiences in web development.
 
-📫How to reach me: <a href="mailto:dpgomberg@gmail.com">dpgomberg@gmail.com</a>
+## 🛠️ Skills & Tools
+- **Frontend:** HTML, CSS, JavaScript, React, Redux, Vue.js 
+- **Backend:** Node.js, Express
+- **Database:** MySQL, MongoDB, PostgreSQL
+- **Other:** Git, Docker, CI/CD
 
-![](https://komarev.com/ghpvc/?username=dmitrygomberg)
+## 📫 Get in Touch
+- **Email:** [dpgomberg@gmail.com](mailto:dpgomberg@gmail.com)
+- **Telegram:** [Your Telegram Handle](https://t.me/dgomberg)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrygomberg&layout=compact&theme=dark)](https://github.com/dmitrygomberg/github-readme-stats)
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitrygomberg&theme=dark)](https://github.com/dmitrygomberg/github-readme-stats)
+## 📈 GitHub Stats
+![Dmitry's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitryGomberg&show_icons=true&theme=radical)
 
-<!--
-**DmitryGomberg/dmitrygomberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 GitHub Trophies
+![Dmitry's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DmitryGomberg&theme=radical)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on a project or just chat about web development.
