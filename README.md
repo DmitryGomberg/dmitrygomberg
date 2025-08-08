@@ -1,4 +1,4 @@
-# Hi there, I'm Dmitry Gomberg 👋
+# Hi there, I'm Dmitry 👋
 
 I'm a passionate web developer with a love for creating dynamic and responsive web applications. Welcome to my GitHub profile! Here you'll find a collection of my projects, showcasing my skills and experiences in web development.
 
